@@ -1,0 +1,4 @@
+﻿  randomer.cpp
+c:\users\илья\documents\visual studio 2015\projects\task 2\randomer\randomer.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  randomer.vcxproj -> C:\Users\Илья\Documents\Visual Studio 2015\Projects\Task 2\Debug\randomer.exe
+  randomer.vcxproj -> C:\Users\Илья\Documents\Visual Studio 2015\Projects\Task 2\Debug\randomer.pdb (Full PDB)

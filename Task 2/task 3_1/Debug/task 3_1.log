@@ -1,0 +1,4 @@
+﻿  task 3_1.cpp
+c:\users\илья\documents\visual studio 2015\projects\task 2\task 3_1\task 3_1.cpp(54): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  task 3_1.vcxproj -> C:\Users\Илья\Documents\Visual Studio 2015\Projects\Task 2\Debug\task 3_1.exe
+  task 3_1.vcxproj -> C:\Users\Илья\Documents\Visual Studio 2015\Projects\Task 2\Debug\task 3_1.pdb (Full PDB)

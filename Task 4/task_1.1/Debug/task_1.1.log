@@ -1,0 +1,10 @@
+﻿  task_1.1.cpp
+c:\users\илья\documents\visual studio 2015\projects\первый семестр\task 4\task_1.1\task_1.1.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\первый семестр\task 4\task_1.1\task_1.1.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\первый семестр\task 4\task_1.1\task_1.1.cpp(131): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\первый семестр\task 4\task_1.1\task_1.1.cpp(182): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\первый семестр\task 4\task_1.1\task_1.1.cpp(207): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\первый семестр\task 4\task_1.1\task_1.1.cpp(217): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\visual studio 2015\projects\первый семестр\task 4\task_1.1\task_1.1.cpp(172): warning C4715: HashTable::has: значение возвращается не при всех путях выполнения
+  task_1.1.vcxproj -> C:\Users\Илья\Documents\Visual Studio 2015\Projects\Первый семестр\Task 4\Debug\task_1.1.exe
+  task_1.1.vcxproj -> C:\Users\Илья\Documents\Visual Studio 2015\Projects\Первый семестр\Task 4\Debug\task_1.1.pdb (Full PDB)
